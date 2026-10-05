@@ -1,4 +1,4 @@
 # my-demo
 This is my first Repository.
 <br>
-Author-Deepak Dalai
+Author-Deepak Dalai(rite)
